@@ -1,6 +1,6 @@
-# Terraform AWS S3 Static Website Hosting
+🌟 Terraform AWS S3 Static Website Hosting 🌟
 
-This guide will walk you through the process of hosting a static website on AWS S3 using Terraform. You can find the complete project files in this repository.
+Hello Everyone .....this is an step by step  process of hosting a static website on AWS S3 using Terraform. You can find the complete project files in this repository.
 
 ## Project Overview
 Using Terraform, we will automate the deployment of a static website on AWS S3. This project includes:
@@ -10,12 +10,21 @@ Using Terraform, we will automate the deployment of a static website on AWS S3. 
 - Configuring the bucket for static website hosting
 - Outputting the website endpoint
 
+#### Project Files
+1. `index.html`
+2. `error.html`
+3. `variables.tf`
+4. `output.tf`
+5. `main.tf`
+6. `provider.tf`
+
 ## Prerequisites
 Before you begin, ensure you have the following:
 
-- An AWS account
-- AWS CLI installed and configured
-- Terraform installed
+1. **AWS Account**: You need an active AWS account to create S3 buckets and other resources.
+2. **Terraform Installed**: Install Terraform on your local machine. Follow the instructions on the [Terraform website](https://learn.hashicorp.com/tutorials/terraform/install-cli).
+3. **AWS CLI Configured**: Configure AWS CLI with your credentials to allow Terraform to interact with your AWS account. You can configure it using `aws configure` command.
+4. **Basic HTML Knowledge**: Understanding of basic HTML to create the website's index and error pages.
 
 ## Step-by-Step Procedure
 
