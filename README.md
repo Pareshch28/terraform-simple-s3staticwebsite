@@ -1,4 +1,4 @@
-#### Terraform AWS S3 Static Website Hosting 
+# 🌟Terraform AWS S3 Static Website Hosting 🌟
 
 Hello Everyone .....this is an step by step  process of hosting a static website on AWS S3 using Terraform. You can find the complete project files in this repository.
 
